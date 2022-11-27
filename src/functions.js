@@ -34,3 +34,4 @@ function addToCart3(product) {
     console.log("Adet : "+product.quantity)
     console.log("Fiyat : "+product.unitPrice)
 }
+addToCart3(product1)
